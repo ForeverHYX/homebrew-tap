@@ -3,8 +3,8 @@ class CodexSwitchCli < Formula
 
   desc "Transparent account-aware wrapper for the Codex CLI"
   homepage "https://github.com/ForeverHYX/codex-switch"
-  url "https://files.pythonhosted.org/packages/25/51/50cac9193f60f414c995b56fbcc7f6f274b7a55e8d9b9876914398954b78/codex_switch_cli-0.1.2.tar.gz"
-  sha256 "d759e7aba582a28781cca97c825386337b17d72d475c6884210250b0fe68543b"
+  url "https://files.pythonhosted.org/packages/ee/7d/ff1b52dace6a9948e7a00f19a5d5bd836a91be06c308b40a51d9a91d279e/codex_switch_cli-0.1.3.tar.gz"
+  sha256 "b8b8e3ad89cebb219a0677dbccf84466c8856063d6224f347f285b7dc253daa7"
 
   depends_on "python@3.13"
 
